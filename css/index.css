@@ -1,0 +1,7 @@
+#menu-home{
+    position: relative;
+}
+
+#menu-home li{
+    display: inline;
+}
